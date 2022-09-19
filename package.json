@@ -1,0 +1,27 @@
+{
+  "name": "release-please-test",
+  "version": "0.0.0",
+  "description": "Release PR test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocAmaroo/release-please-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DocAmaroo/release-please-test/issues"
+  },
+  "homepage": "https://github.com/DocAmaroo/release-please-test#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
