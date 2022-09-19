@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/DocAmaroo/release-please-test/compare/v1.2.0...v1.3.0) (2022-09-19)
+
+
+### Features
+
+* new feature ([#12](https://github.com/DocAmaroo/release-please-test/issues/12)) ([20e8997](https://github.com/DocAmaroo/release-please-test/commit/20e89976ab7eca20325e38f904e493584e043874))
+
 ## [1.2.0](https://github.com/DocAmaroo/release-please-test/compare/v1.1.0...v1.2.0) (2022-09-19)
 
 
